@@ -1,0 +1,9 @@
+Nnormal_train_highway：
+	(13, 499) 6487 单个样本的mfcc
+	353个wav转化完成，每个5s时长
+	2289911
+
+Normal_train_highway：
+	(13, 499) 6487 单个样本的mfcc
+	160个wav转化完成，每个5s时长
+	1037920
